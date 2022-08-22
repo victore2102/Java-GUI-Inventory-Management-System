@@ -1,0 +1,8 @@
+0,Nike,River road,
+1,Nike,River Road,
+2,Under Armour,River Road,
+3,Walmart,Horse Lane,
+4,CVS,Ranch Road,
+5,Office Depot,55467 Gravy Ln,
+6,Walgreens,4123 Mountain Dr,
+7,Test Store,Test Address,
